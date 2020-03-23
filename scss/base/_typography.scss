@@ -1,0 +1,51 @@
+/* ============================================= */
+/*              Base styles                      */
+/* ============================================= */
+
+* {
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+
+  word-wrap: break-word;
+}
+
+p {
+  line-height: 1.45em;
+  @include font-size(14px);
+  color: #888e92;
+}
+
+body {
+  background-color: #fcfcfc;
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #b2b5b8;
+}
+a:visited {
+  color: #b2b5b8;
+}
+a:hover {
+  color: darken(#b2b5b8, 10%);
+}
+a:active {
+  color: #b2b5b8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #404a51;
+}
+
+/* ============================================= */
+/*              Typography                       */
+/* ============================================= */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
