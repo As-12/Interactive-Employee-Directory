@@ -2,7 +2,7 @@
 
 ![Employee Directory](employee-directory.png)
 
-[![pipeline status](https://gitlab.com/As-12/Treehouse-FEWD/badges/Project08/pipeline.svg)](https://gitlab.com/As-12/Treehouse-FEWD/-/commits/Project08)
+[![pipeline status](https://gitlab.com/As-12/Interactive-Employee-Directory/badges/master/pipeline.svg)](https://gitlab.com/As-12/Interactive-Employee-Directory/-/commits/master)
 
 ## Description
 
