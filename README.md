@@ -2,10 +2,11 @@
 
 ![Employee Directory](employee-directory.png)
 
-[![pipeline status](https://gitlab.com/As-12/Interactive-Employee-Directory/badges/master/pipeline.svg)](https://gitlab.com/As-12/Interactive-Employee-Directory/-/commits/master)
+[![pipeline status](https://gitlab.com/As-12/Interactive-Employee-Directory/badges/master/pipeline.svg)](https://gitlab.com/As-12/Interactive-Employee-Directory/-/commits/master) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Live Website](http://interactive-mock-directory.as12production.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Live Demo
+
+[Demo](http://interactive-mock-directory.as12production.com/)
 
 ## Description
 
